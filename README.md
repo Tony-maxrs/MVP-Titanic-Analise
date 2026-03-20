@@ -1,23 +1,33 @@
-# MVP - Análise de Dados Titanic
+# MVP - Análise de Dados Titanic 🚢
 
 Este projeto tem como objetivo analisar os fatores que influenciaram a sobrevivência dos passageiros do Titanic.
 
-## Tecnologias utilizadas
+## 📊 Objetivo
+Realizar uma análise exploratória de dados (EDA) e pré-processamento para entender padrões relacionados à sobrevivência.
+
+## 🧠 Hipóteses analisadas
+- Mulheres tiveram maior chance de sobrevivência?
+- A classe social influenciou na sobrevivência?
+- Crianças tiveram prioridade no resgate?
+
+## 🛠️ Tecnologias utilizadas
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 
-## Etapas realizadas
-- Análise exploratória de dados (EDA)
-- Visualizações
-- Tratamento de dados
+## 🔎 Etapas do projeto
+- Importação e entendimento dos dados
+- Análise exploratória (EDA)
+- Visualização de dados
+- Tratamento de valores nulos
 - Pré-processamento
-- Validação de hipóteses
+- Validação das hipóteses
 
-## Dataset
-Dataset público baseado no Titanic (derivado do Kaggle)
+## 📁 Dataset
+Dataset público do Titanic (versão derivada do Kaggle via GitHub)
 
-## Autor
+## 👨‍💻 Autor
 Tony Ribeiro Sá
