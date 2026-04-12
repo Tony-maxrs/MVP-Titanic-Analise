@@ -29,5 +29,11 @@ Realizar uma análise exploratória de dados (EDA) e pré-processamento para ent
 ## Dataset
 Dataset público do Titanic (versão derivada do Kaggle via GitHub)
 
+## Execução
+
+Link para execução do Notebook no Google Colab
+
+https://colab.research.google.com/github/Tony-maxrs/MVP-Titanic-Analise/blob/main/MVP_Titanic_Analise_de_Dados.ipynb
+
 ## Autor
 Tony Ribeiro Sá
