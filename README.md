@@ -33,7 +33,7 @@ Dataset público do Titanic (versão derivada do Kaggle via GitHub)
 
 Link para execução do Notebook no Google Colab
 
-https://colab.research.google.com/github/Tony-maxrs/MVP-Titanic-Analise/blob/main/MVP_Titanic_Analise_de_Dados.ipynb
+https://colab.research.google.com/github/Tony-maxrs/MVP-Titanic-Analise/blob/main/MVP_TONY_RIBEIRO_TITANIC_PUCRJ.ipynb
 
 ## Autor
 Tony Ribeiro Sá
